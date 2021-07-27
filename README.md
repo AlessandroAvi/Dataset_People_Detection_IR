@@ -9,9 +9,9 @@ The two files here are:
 
 Here below two previes images of the dataset are shown as an example.
 
-![name-of-you-image](https://github.com/AlessandroAvi/Moonboard_LED_DIY/blob/main/Img/material.png)
+![name-of-you-image](https://github.com/AlessandroAvi/Dataset_People_Detection_IR/blob/main/PrevImg/dataset_example.png)
 
 
 
-![name-of-you-image](https://github.com/AlessandroAvi/Moonboard_LED_DIY/blob/main/Img/material.png)
+![name-of-you-image](https://github.com/AlessandroAvi/Dataset_People_Detection_IR/blob/main/PrevImg/dataset_example_himax.png)
 
