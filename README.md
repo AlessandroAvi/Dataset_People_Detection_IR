@@ -1,6 +1,6 @@
 # Dataset_People_Detection_IR
 
-This repo contains the dataset generated for the study of "Thermal imaging for people detection".
+This repo contains the dataset generated for the paper [Infrared Dataset Generation for People Detection Through Superimposition of Different Camera Sensors](https://openaccess.thecvf.com/content/ICCV2021W/DSC/html/Avi_Infrared_Dataset_Generation_for_People_Detection_Through_Superimposition_of_Different_ICCVW_2021_paper.html). 
 
 The two files in this repo are:
 
